@@ -16,7 +16,7 @@ We welcome contributors who share our passion for gaming and software developmen
 ## Useful Resources
 
 - **Documentation**: Find our documentation and guides on how to contribute in our [Wiki](wiki).
-- **Unity Asset Store**: Explore our Unity software and tools available on the [Unity Asset Store]([https://assetstore.unity.com/](https://assetstore.unity.com/publishers/99871)).
+- **Unity Asset Store**: Explore our Unity software and tools available on the [Unity Asset Store]([https://assetstore.unity.com/](https://assetstore.unity.com/publishers/99871]).
 - **GitHub Repository**: Contribute to our projects on [GitHub](https://github.com/PhantomByte-Entertainment).
 
 Let's build something great together! 🎮🚀
